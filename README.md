@@ -1,50 +1,57 @@
 <div align="center">
 
-# Hi, I'm Mohammad Abu Sofian 👋
-### Full Stack Web Developer 💻
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Md%20Abu%20Sofian&fontSize=50&animation=fadeIn&fontAlignY=38)
 
-Building modern, responsive, and user-friendly web experiences.
+# Hi 👋, I'm Mohammad Abu Sofian
+### 💻 Full Stack Web Developer
+
+A passionate web developer who loves building modern, responsive, and user-friendly web applications.
 
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a passionate Full Stack Web Developer who enjoys turning ideas into real-world web applications.
-- 🔭 I’m currently working on building full stack web projects.
-- 🌱 I’m currently learning modern web technologies and advanced frameworks.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about HTML, CSS, JavaScript, React, Next.js, etc.
+I'm a dedicated Full Stack Web Developer. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+
+- 🔭 **Current Focus:** Exploring Next.js and Full Stack Web Architecture.
+- 🚀 **Current Activity:** Working on modern full-stack web applications and interactive UI components.
+- ⚡ **Fun Fact:** I love learning new web tools and improving code performance every day!
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-#### Frontend
-`HTML5` `CSS3` `JavaScript` `ES6+` `TypeScript` `Tailwind CSS` `React` `Next.js`
-
-#### Development & Other Skills
-`Authentication` `API Integration` `Responsive Web Design` `Git & GitHub`
-
----
-
-### 📁 Featured Projects
-
-#### 🏋️ FitLog - Workout Library
-A modern workout library application built with React.
-- [View Repository][(https://app.netlify.com/teams/abusofianneaz/projects)]
-
-#### 🌐 Web Developer Portfolio
-A responsive personal portfolio website to showcase skills and projects.
-- [View Repository](https://github.com/abusofian-webdev)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
 ---
 
-### 🎯 My Goal
-To grow as a Full Stack Developer by building real-world applications and continuously learning new technologies.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abusofian-webdev&show_icons=true&theme=radial" alt="Abu Sofian's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusofian-webdev&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abusofian-webdev&theme=radial" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
-- Email:abusofianneaz@gmail.com
-- GitHub: [abusofian-webdev](https://github.com/abusofian-webdev)
+
+<p align="left">
+  <a href="mailto:abusofianneaz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/abusofian-webdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>

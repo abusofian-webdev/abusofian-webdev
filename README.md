@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Abu Sofian 👋
+# Hi, I'm Mohammad Abu Sofian 👋
 ### Full Stack Web Developer 💻
 
 Building modern, responsive, and user-friendly web experiences.
@@ -31,8 +31,8 @@ I'm a passionate Full Stack Web Developer who enjoys turning ideas into real-wor
 ### 📁 Featured Projects
 
 #### 🏋️ FitLog - Workout Library
-A modern workout library application built with Next.js and React.
-- [View Repository](https://github.com/abusofian-webdev)
+A modern workout library application built with React.
+- [View Repository][(https://app.netlify.com/teams/abusofianneaz/projects)]
 
 #### 🌐 Web Developer Portfolio
 A responsive personal portfolio website to showcase skills and projects.
@@ -46,5 +46,5 @@ To grow as a Full Stack Developer by building real-world applications and contin
 ---
 
 ### 📫 Connect With Me
-- Email: your-email@example.com
+- Email:abusofianneaz@gmail.com
 - GitHub: [abusofian-webdev](https://github.com/abusofian-webdev)

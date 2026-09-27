@@ -37,10 +37,7 @@ I'm a dedicated Full Stack Web Developer. I enjoy turning complex problems into 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abusofian-webdev&show_icons=true&theme=radial" alt="Abu Sofian's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusofian-webdev&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
+>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abusofian-webdev&theme=radial" alt="GitHub Streak" />

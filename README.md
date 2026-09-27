@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Md%20Abu%20Sofian&fontSize=50&animation=fadeIn&fontAlignY=38)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohammad%20Abu%20Sofian&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 # Hi 👋, I'm Mohammad Abu Sofian
 ### 💻 Full Stack Web Developer

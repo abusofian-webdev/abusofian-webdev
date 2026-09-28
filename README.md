@@ -1,5 +1,5 @@
 <div align="center">
-
+<img width="1200" height="400" alt="Image" src="https://github.com/user-attachments/assets/41d5bdb2-ea08-4802-888e-cb561c67e4c9" />
 
 # Hi 👋, I'm Mohammad Abu Sofian
 ### 💻 Full Stack Web Developer
